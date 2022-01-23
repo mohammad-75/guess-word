@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    text-align: center;
+}
+
+tr td input {
+    padding: 5px;
+    background-color: #ffff;
+    border: none;
+}
+tr td input:hover{
+    background-color: rgb(224, 58, 58);
+    cursor: pointer;
+}
